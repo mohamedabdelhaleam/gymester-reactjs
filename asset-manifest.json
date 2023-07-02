@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gymester-reactjs/static/css/main.7c79402f.css",
+    "main.js": "/gymester-reactjs/static/js/main.4ca4be42.js",
+    "static/media/carousel-1.jpg": "/gymester-reactjs/static/media/carousel-1.4cc3608b65a9ae72d619.jpg",
+    "static/media/about.jpg": "/gymester-reactjs/static/media/about.f06758d273da49e7a443.jpg",
+    "static/media/body-svgrepo-com.svg": "/gymester-reactjs/static/media/body-svgrepo-com.f5561b9857e7a50b5c043be074e5aa27.svg",
+    "static/media/arm-dumbbell-svgrepo-com.svg": "/gymester-reactjs/static/media/arm-dumbbell-svgrepo-com.5d0962d10608875fc2de86c1da7e91a7.svg",
+    "static/media/gym-weights-svgrepo-com.svg": "/gymester-reactjs/static/media/gym-weights-svgrepo-com.aa1884ad3f939863bb03ee7a683a32b3.svg",
+    "index.html": "/gymester-reactjs/index.html",
+    "main.7c79402f.css.map": "/gymester-reactjs/static/css/main.7c79402f.css.map",
+    "main.4ca4be42.js.map": "/gymester-reactjs/static/js/main.4ca4be42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c79402f.css",
+    "static/js/main.4ca4be42.js"
+  ]
+}
